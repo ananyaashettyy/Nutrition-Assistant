@@ -20,10 +20,7 @@ Users can:
 - Upload food label images
 - Click **Analyze** to process
 
-📌 *Design includes:*
-- Green header
-- Centered card with upload and button
-- "How it Works" section
+
 
 ### 📊 `result.html` - Results Page
 
@@ -32,9 +29,7 @@ Displays:
 - **Health warnings** for excessive levels
 - **Healthier alternatives** suggestions
 
-📌 *Design includes:*
-- Matching green header
-- Clean card layout with summary and tables
+
 
 git clone https://github.com/ananyaashettyy/Nutrition-Assistant.git
 in terminal run:python app.py
