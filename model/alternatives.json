@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Apples",
+    "image": "alternatives/apples.jpg",
+    "calories": "95 kcal",
+    "why": "High in fiber and antioxidants"
+  },
+  {
+    "name": "Avocados",
+    "image": "alternatives/avocados.jpg",
+    "calories": "160 kcal",
+    "why": "Rich in healthy fats and fiber"
+  },
+  {
+    "name": "Bananas",
+    "image": "alternatives/bananas.jpg",
+    "calories": "105 kcal",
+    "why": "Good source of potassium and vitamin B6"
+  },
+  {
+    "name": "Blueberries",
+    "image": "alternatives/blueberries.jpg",
+    "calories": "85 kcal per cup",
+    "why": "High in antioxidants and vitamins"
+  },
+  {
+    "name": "Oranges",
+    "image": "alternatives/orange.jpg",
+    "calories": "62 kcal",
+    "why": "Excellent source of vitamin C and fiber"
+  },
+  {
+    "name": "Strawberries",
+    "image": "alternatives/strawberries.jpg",
+    "calories": "50 kcal per cup",
+    "why": "Low calorie and rich in vitamin C"
+  },
+  {
+    "name": "Almonds",
+    "image": "alternatives/almonds.jpg",
+    "calories": "160 kcal per ounce",
+    "why": "High in vitamin E and healthy fats"
+  },
+  {
+    "name": "Chia Seeds",
+    "image": "alternatives/chia.jpg",
+    "calories": "138 kcal per ounce",
+    "why": "Rich in fiber and omega-3 fatty acids"
+  },
+  {
+    "name": "Walnuts",
+    "image": "alternatives/walnuts.jpg",
+    "calories": "185 kcal per ounce",
+    "why": "Rich in fiber and antioxidants"
+  },
+  {
+    "name": "Bell Peppers",
+    "image": "alternatives/bell.jpg",
+    "calories": "31 kcal per 100g",
+    "why": "High in antioxidants and vitamin C"
+  },
+  {
+    "name": "Broccoli",
+    "image": "alternatives/brocolli.jpg",
+    "calories": "55 kcal per cup",
+    "why": "Excellent source of fiber and vitamins C and K"
+  },
+  {
+    "name": "Carrots",
+    "image": "alternatives/carrots.jpg",
+    "calories": "41 kcal per 100g",
+    "why": "Rich in beta-carotene and fiber"
+  },
+  {
+    "name": "Tomatoes",
+    "image": "alternatives/tomatoes.jpg",
+    "calories": "18 kcal per 100g",
+    "why": "Rich in potassium and vitamin C"
+  }
+]
