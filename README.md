@@ -37,6 +37,8 @@ Displays:
 - Clean card layout with summary and tables
 
 git clone https://github.com/ananyaashettyy/Nutrition-Assistant.git
+in terminal run:python app.py
+
 ![Screenshot 2025-06-12 123001](https://github.com/user-attachments/assets/be422628-d5dd-4003-90fe-dbb0ac366c13)
 
 ![Screenshot 2025-06-12 123030](https://github.com/user-attachments/assets/a6384e24-e2d2-4e95-a8f5-b73f915d3df0)
